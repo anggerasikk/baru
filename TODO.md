@@ -1,7 +1,7 @@
 # Merge 'new' into 'main' (master) Task
 
 ## Steps:
-- [ ] 1. Commit & push TODO.md to 'new'
+- [x] 1. Commit & push TODO.md to 'new'
 - [ ] 2. Checkout 'main'
 - [ ] 3. git pull origin main
 - [ ] 4. git merge new
